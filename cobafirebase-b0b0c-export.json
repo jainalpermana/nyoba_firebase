@@ -1,0 +1,11 @@
+{
+  "-KmzDQB7pGK7e3ouFuJC" : "tes",
+  "Text" : "input",
+  "Users" : {
+    "user_01" : {
+      "Email" : "ambar@gmail.com",
+      "Name" : "Ambar"
+    }
+  },
+  "heading" : "Coba Firebase"
+}
